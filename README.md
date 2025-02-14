@@ -5,9 +5,9 @@ Specially, I am focusing on the "Gradient Compression" algorithm in distributed 
 **Now, I am seeking related PhD opportunities.**
 
 Here is my personal website and contact way:
-* Personal Website: (https://zhuxy-ustc.github.io/cv/)[https://zhuxy-ustc.github.io/cv/]
+* Personal Website: [https://zhuxy-ustc.github.io/cv/](https://zhuxy-ustc.github.io/cv/)
 * Mail: zhuxy@mail.ustc.edu.cn
-* Google Scholar Profile: (Google Scholar)[https://scholar.google.com/citations?user=k2ajuuEAAAAJ&hl]
+* Google Scholar Profile: [Google Scholar](https://scholar.google.com/citations?user=k2ajuuEAAAAJ&hl)
 
 <!--
 **zhuxy-USTC/zhuxy-USTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

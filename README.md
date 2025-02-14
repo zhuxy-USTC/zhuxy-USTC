@@ -4,7 +4,7 @@ I am currently a master student in the [School of Computer Science and Technolog
 
 Specially, I am focusing on the "Gradient Compression" algorithm in distributed training.
 
-**Now, I am seeking related PhD opportunities.**
+**Now, I am seeking related PhD opportunities in 2026 Fall.**
 
 Here is my personal website and contact way:
 * Personal Website: [https://zhuxy-ustc.github.io](https://zhuxy-ustc.github.io)

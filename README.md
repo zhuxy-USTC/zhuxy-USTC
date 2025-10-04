@@ -1,10 +1,24 @@
-## Last Updated (Feb 14, 2025)
+## Last Updated (October 4, 2025)
 
-I am currently a master student in the [School of Computer Science and Technology](https://cs.ustc.edu.cn) at the [University of Science and Technology of China(USTC)](https://ustc.edu.cn/). I primarily conduct research in high-performance computing, machine learning systems, and distributed training.
+Now, I am currently a master student in the 
+[School of Computer Science and Technology](https://cs.ustc.edu.cn) 
+at the [University of Science and Technology of China (USTC)](https://ustc.edu.cn).
 
-Specially, I am focusing on the "Gradient Compression" algorithm in distributed training.
+I am a member of the 
+[Advanced Computer Systems Architecture (ACSA) Laboratory](https://acsa.ustc.edu.cn), 
+which is led by [Professor Hong An](https://cs.ustc.edu.cn/2020/0426/c23235a460072/page.htm).
 
-**Now, I am seeking related PhD opportunities in 2026 Fall.**
+Before that, I obtained my bachelor’s degree in Computer Science from Northwest A&F University in 2023.  
+During my undergraduate studies, I joined the Parallel and Visual Processing Laboratory led by 
+[Professor Bin Liu](https://cie.nwsuaf.edu.cn/szdw/js/2014110093/index.htm).
+
+My research interests lie at the intersection of **high-performance computing**, 
+**machine learning systems**, and **distributed training**. Specifically, I focus on:
+
+- **Gradient Compression Algorithms:** Developing efficient compression techniques to reduce communication overhead in distributed training
+- **Large-scale Distributed Systems:** Building scalable solutions for training foundation models on HPC clusters
+
+**Now, I am seeking related PhD opportunities in 2026 Fall 🍂🍂🍂**
 
 Here is my personal website and contact way:
 * Personal Website: [https://zhuxy-ustc.github.io](https://zhuxy-ustc.github.io)

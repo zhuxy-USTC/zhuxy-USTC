@@ -1,16 +1,6 @@
 ## Last Updated (October 4, 2025)
 
-Now, I am currently a master student in the 
-[School of Computer Science and Technology](https://cs.ustc.edu.cn) 
-at the [University of Science and Technology of China (USTC)](https://ustc.edu.cn).
-
-I am a member of the 
-[Advanced Computer Systems Architecture (ACSA) Laboratory](https://acsa.ustc.edu.cn), 
-which is led by [Professor Hong An](https://cs.ustc.edu.cn/2020/0426/c23235a460072/page.htm).
-
-Before that, I obtained my bachelor’s degree in Computer Science from Northwest A&F University in 2023.  
-During my undergraduate studies, I joined the Parallel and Visual Processing Laboratory led by 
-[Professor Bin Liu](https://cie.nwsuaf.edu.cn/szdw/js/2014110093/index.htm).
+Now, I am currently a master student in the [School of Computer Science and Technology](https://cs.ustc.edu.cn) at the [University of Science and Technology of China (USTC)](https://ustc.edu.cn). I am a member of the [Advanced Computer Systems Architecture (ACSA) Laboratory](https://acsa.ustc.edu.cn), which is led by [Professor Hong An](https://cs.ustc.edu.cn/2020/0426/c23235a460072/page.htm). Before that, I obtained my bachelor’s degree in Computer Science from Northwest A&F University in 2023. During my undergraduate studies, I joined the Parallel and Visual Processing Laboratory led by [Professor Bin Liu](https://cie.nwsuaf.edu.cn/szdw/js/2014110093/index.htm).
 
 My research interests lie at the intersection of **high-performance computing**, 
 **machine learning systems**, and **distributed training**. Specifically, I focus on:
